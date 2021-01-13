@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my Profile
+
+- as you can see my name is Satisfy and I am an admin and Owner of Many Discord server and  Begginer Javascript and [Discord.js](https://github.com/discordjs/discord.js) coder
 
 <!--
 **Satisfy4339/Satisfy4339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
